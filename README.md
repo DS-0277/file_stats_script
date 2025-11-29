@@ -42,6 +42,6 @@ The result will be shown as follows:
 
 **File: sample.txt
 **--------------------
-**Lines     : 3
-**Words     : 11
-**Characters  : 60
+**Lines: 3
+**Words: 11
+**Characters: 60
