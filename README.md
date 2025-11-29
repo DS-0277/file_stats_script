@@ -12,12 +12,14 @@ This script will be helpful when the user is dealing with big text and wants to 
 writing requirements.
 
 # How to use the script?
-Step 1:     Make the script executable 
+
+**Step 1:     Make the script executable **
 
 We start by typing and running --< chmod +x file-stats.sh >-- in the terminal
 
 
-Step 2:     Create a text file (e.g sample.txt)
+
+**Step 2:     Create a text file (e.g sample.txt)**
 
 Type and run the text we want --< echo "Hello Linux World!" > sample.txt >--
 We can also add further texts on top of the existing text from time to time as follows:
@@ -26,13 +28,15 @@ We can also add further texts on top of the existing text from time to time as f
 --< echo "This is the third line." >> sample.txt >--
 
 
-Step 3: Run the script
+
+**Step 3: Run the script**
 
 Type and run --< ./file-stats.sh sample.txt >--
 We can also upload any file with .txt extension to run this script.
 
 
-Step 4: Display the result
+
+**Step 4: Display the result**
 
 The result will be shown as follows:
 
