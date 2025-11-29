@@ -40,8 +40,8 @@ We can also upload any file with .txt extension to run this script.
 
 The result will be shown as follows:
 
-#File: sample.txt
-#--------------------
-#Lines     : 3
-#Words     : 11
-#Characters  : 60
+**File: sample.txt
+**--------------------
+**Lines     : 3
+**Words     : 11
+**Characters  : 60
